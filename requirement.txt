@@ -4,3 +4,4 @@ pandas
 openpyxl
 tkcalendar
 sqlite3
+reportlab
